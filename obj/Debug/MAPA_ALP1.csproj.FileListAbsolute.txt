@@ -1,0 +1,8 @@
+C:\Users\gnogu\Documents\Faculdade\Atividades\ALP1\MAPA_ALP1\MAPA_ALP1\MAPA_ALP1\bin\Debug\MAPA_ALP1.exe.config
+C:\Users\gnogu\Documents\Faculdade\Atividades\ALP1\MAPA_ALP1\MAPA_ALP1\MAPA_ALP1\bin\Debug\MAPA_ALP1.exe
+C:\Users\gnogu\Documents\Faculdade\Atividades\ALP1\MAPA_ALP1\MAPA_ALP1\MAPA_ALP1\bin\Debug\MAPA_ALP1.pdb
+C:\Users\gnogu\Documents\Faculdade\Atividades\ALP1\MAPA_ALP1\MAPA_ALP1\MAPA_ALP1\obj\Debug\MAPA_ALP1.csproj.AssemblyReference.cache
+C:\Users\gnogu\Documents\Faculdade\Atividades\ALP1\MAPA_ALP1\MAPA_ALP1\MAPA_ALP1\obj\Debug\MAPA_ALP1.csproj.SuggestedBindingRedirects.cache
+C:\Users\gnogu\Documents\Faculdade\Atividades\ALP1\MAPA_ALP1\MAPA_ALP1\MAPA_ALP1\obj\Debug\MAPA_ALP1.csproj.CoreCompileInputs.cache
+C:\Users\gnogu\Documents\Faculdade\Atividades\ALP1\MAPA_ALP1\MAPA_ALP1\MAPA_ALP1\obj\Debug\MAPA_ALP1.exe
+C:\Users\gnogu\Documents\Faculdade\Atividades\ALP1\MAPA_ALP1\MAPA_ALP1\MAPA_ALP1\obj\Debug\MAPA_ALP1.pdb
